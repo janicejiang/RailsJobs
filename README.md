@@ -1,24 +1,3 @@
-# README
+[How to code the front-end of a jobs board site (Week 6 of 12)](https://www.youtube.com/watch?v=Iv7he3sSRkI&index=4&list=PL23ZvcdS3XPIr_bRRYaA779k3APzgjuQl)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![](http://oji7id3lo.bkt.clouddn.com/rails_jobs.png)
